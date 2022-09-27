@@ -38,12 +38,9 @@ export default async function handler(
       res
         .status(201)
         .json({ contact, message: "contact info inserted successfully" });
+      client.close();
     } catch (err) {
       res.status(500).json({ message: "Cannot insert data to mongodb" });
-    }
-
-    if (client) {
-      client.close();
     }
   }
   res.status(200).json({ message: "GET METHOD HAS YET BEEN SUPPORTED!" });
