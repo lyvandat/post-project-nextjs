@@ -1,0 +1,13 @@
+.notification {
+  font-size: 2rem;
+
+  background-color: #ccc;
+}
+
+.notification.success {
+  background-color: #6a5aff;
+}
+
+.notification.error {
+  background-color: rgb(198, 31, 31);
+}

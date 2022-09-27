@@ -1,0 +1,26 @@
+.info {
+  background-color: var(--background-green);
+  padding-top: 50px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+
+.info-container {
+  width: 100%;
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.image-wrapper {
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;
+  overflow: hidden;
+  margin: 0 auto;
+}
+
+.image-wrapper img {
+  height: 100%;
+  object-fit: cover;
+}

@@ -1,0 +1,35 @@
+.item {
+  /* width: calc(50% - 12px); */
+  color: var(--medium-green);
+  background-color: var(--background-green);
+  margin-bottom: 20px;
+}
+
+.item image {
+  width: 100%;
+}
+
+.item h2 {
+  color: var(--high-green);
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-top: 10px;
+  margin-bottom: 16px;
+  padding: 0 12px;
+}
+
+.item time {
+  display: block;
+  color: var(--high-green);
+  opacity: 0.88;
+  font-size: 1.4rem;
+  font-weight: bold;
+  padding: 0 12px;
+  margin-bottom: 12px;
+}
+
+.item p {
+  color: var(--high-green);
+  font-weight: 600;
+  padding: 0 12px;
+}

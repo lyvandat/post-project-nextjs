@@ -1,0 +1,24 @@
+.item {
+  /* width: calc(50% - 12px); */
+  color: var(--medium-green);
+  background-color: var(--background-green);
+  margin-bottom: 20px;
+}
+
+.item image {
+  width: 100%;
+}
+
+.item h2 {
+  color: var(--high-green);
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+.item time {
+  color: inherit;
+  font-size: 1.4rem;
+}
+
+.item p {
+}

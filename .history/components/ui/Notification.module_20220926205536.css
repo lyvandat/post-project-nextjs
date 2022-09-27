@@ -1,0 +1,7 @@
+.notification {
+  background-color: #ccc;
+}
+
+.notification.success {
+  background-color: rgb(4, 156, 4);
+}

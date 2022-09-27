@@ -1,0 +1,30 @@
+.contact {
+  background-color: #ccc;
+}
+
+.contact h1 {
+  font-size: 2.2rem;
+  color: #333;
+}
+
+.form {
+  padding: 20px;
+  background-color: var(--light-green);
+}
+
+.controls {
+}
+
+.control {
+}
+
+.text {
+}
+
+.actions {
+  margin-left: auto;
+}
+
+.actions button {
+  font-size: ;
+}

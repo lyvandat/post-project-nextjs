@@ -1,0 +1,29 @@
+.info {
+  background-color: var(--background-green);
+  padding-top: 50px;
+  padding-bottom: 30px;
+  text-align: center;
+  color: var(--high-green);
+}
+
+.image-wrapper {
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;
+  overflow: hidden;
+}
+
+.image-wrapper img {
+  height: 100%;
+  object-fit: cover;
+}
+
+.info h1 {
+  margin-top: 12px;
+  margin-bottom: 16px;
+}
+
+.info p {
+  width: 30%;
+  font-size: 1.6rem;
+}

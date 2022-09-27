@@ -1,0 +1,30 @@
+.main-header {
+  width: 100%;
+  /* max-width: 1200px; */
+  display: flex;
+  justify-content: space-between;
+  background-color: var(--background-green);
+}
+
+.main-header h2 {
+  font-size: 20px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.main-header nav {
+}
+
+.main-header ul {
+  display: flex;
+  justify-content: flex-start;
+}
+
+.main-header li {
+  margin-right: 20px;
+}
+
+.main-header a {
+  font-size: 16px;
+  font-weight: 500;
+}

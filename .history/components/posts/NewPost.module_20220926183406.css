@@ -1,0 +1,44 @@
+.contact {
+  background-color: #ccc;
+  border-radius: 12px;
+  padding: 20px;
+  color: #333;
+}
+
+.contact h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.form {
+  background-color: var(--light-green);
+}
+
+.controls {
+  display: flex;
+  flex-flow: row nowrap;
+}
+
+.control {
+  width: calc(50% - 16px);
+}
+
+.text label {
+  display: block;
+}
+
+.actions {
+  margin-left: auto;
+}
+
+.actions button {
+  font-size: 2rem;
+  background-color: #444;
+  color: #fff;
+}
+
+.actions button:hover {
+  background-color: #222;
+}

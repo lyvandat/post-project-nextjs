@@ -1,0 +1,34 @@
+.info {
+  background-color: var(--background-green);
+  padding-top: 50px;
+  padding-bottom: 30px;
+  text-align: center;
+  color: var(--high-green);
+}
+
+.image-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;
+  overflow: hidden;
+}
+
+.image-wrapper img {
+  height: 100%;
+  object-fit: cover;
+}
+
+.info h1 {
+  font-weight: 500;
+  margin-top: 22px;
+  margin-bottom: 26px;
+}
+
+.info p {
+  width: 80%;
+  font-size: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+}

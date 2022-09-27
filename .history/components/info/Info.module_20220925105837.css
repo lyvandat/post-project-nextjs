@@ -1,0 +1,8 @@
+.info {
+  background-color: var(--background-green);
+}
+
+.info-container {
+  width: 100%;
+  max-width: 1200px;
+}

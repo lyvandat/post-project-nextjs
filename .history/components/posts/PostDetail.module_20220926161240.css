@@ -1,0 +1,12 @@
+.detail {
+  background-color: #fff;
+  padding: 20px;
+}
+
+.detail-header {
+  display: flex;
+  align-items: center;
+}
+
+.detail-body {
+}

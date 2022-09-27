@@ -1,0 +1,19 @@
+.detail {
+  background-color: var(--medium-green);
+  padding: 20px;
+}
+
+.detail-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-bottom: 20px;
+  border-bottom: 1px solid var(--light-green);
+}
+
+.detail-header h2 {
+  font-size: 30px;
+}
+
+.detail-body {
+}

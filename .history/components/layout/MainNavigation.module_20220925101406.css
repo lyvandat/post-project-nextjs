@@ -1,0 +1,25 @@
+.main-header {
+  width: 100%;
+  max-width: 1200px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.main-header h2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.main-header nav {
+}
+
+.main-header ul {
+}
+
+.main-header li {
+}
+
+.main-header article {
+}

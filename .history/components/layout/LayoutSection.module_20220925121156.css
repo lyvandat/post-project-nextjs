@@ -1,0 +1,6 @@
+.section {
+  width: 100%;
+  background-color: var(--medium-green);
+  color: var(--light-green);
+  color: rgb(222, 192, 192);
+}

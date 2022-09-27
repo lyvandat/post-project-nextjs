@@ -1,0 +1,15 @@
+.item {
+  color: var(--medium-green);
+}
+
+.item image {
+  width: 100%;
+}
+
+.item h2 {
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.item p {
+}
